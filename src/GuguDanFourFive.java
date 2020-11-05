@@ -7,6 +7,10 @@ public class GuguDanFourFive {
 			System.out.println(4*i);
 			i += 1;
 		}
+		
+		for(int j = 1; j<10; j++) {
+			System.out.println(5*j);
+		}
 	}
 
 }
